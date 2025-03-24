@@ -20,4 +20,6 @@ public:
 private:
 	// Default variables for level class.
 
+	sf::Font font;
+	sf::Text LevelText;
 };
